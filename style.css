@@ -48,7 +48,7 @@ html {
 }
 
 .blokgambar {
-    height: 80vh;
+    height: 75vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -80,5 +80,4 @@ html {
     justify-content: center;
     align-items: center;
     height: 5vh;
-    background-color: blue;
 }
